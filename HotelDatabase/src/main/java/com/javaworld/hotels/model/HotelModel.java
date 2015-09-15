@@ -37,6 +37,7 @@ public class HotelModel {
 	 * The list of all hotels in the database.
 	 */
 	private static Hotel[] hotels = {
+		new Hotel("Hotel Cigogne","Grand place","Paris",2),
 		new Hotel("Hotel Latin","Quartier latin","Paris",3),
 		new Hotel("Hotel Etoile","Place de l'Etoile","Paris",4),
 		new Hotel("Hotel Vendome","Place Vendome","Paris",5),
